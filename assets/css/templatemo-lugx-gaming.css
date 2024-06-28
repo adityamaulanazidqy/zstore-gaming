@@ -1380,7 +1380,7 @@ Single Page Style
 .single-product span.price {
   font-size: 27px;
   font-weight: 700;
-  color: #0071f8;
+  color: #ff7803;
 }
 
 .single-product span.price em {
@@ -1432,7 +1432,7 @@ Single Page Style
 }
 
 .single-product form button:hover {
-  background-color: #0071f8;
+  background-color: #ff7803;
 }
 
 .single-product ul {
@@ -1443,7 +1443,7 @@ Single Page Style
   display: block;
   margin: 20px 0px;
   font-size: 14px;
-  color: #0071f8;
+  color: black;
 }
 
 .single-product ul li:last-child {
@@ -1490,7 +1490,7 @@ Single Page Style
 }
 
 .tabs-content .nav-tabs .nav-link.active {
-  color: #0071f8;
+  color: #ff7803;
 }
 
 .tabs-content .tab-content {
